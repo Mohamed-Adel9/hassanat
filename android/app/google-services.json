@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "763353680196",
+    "project_id": "hassanat-418712",
+    "storage_bucket": "hassanat-418712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763353680196:android:0a7b8a9c138a66dbd7ef11",
+        "android_client_info": {
+          "package_name": "hasanat.app.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763353680196-8eo8bj8965kcgqvf237uk3iqueqduh3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hasanat.app.com",
+            "certificate_hash": "fe1573b2f04de6d15211bc2f0b8b9cea68b04a49"
+          }
+        },
+        {
+          "client_id": "763353680196-fn0i0h0so59h93bfe51c659lch2r1it7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hasanat.app.com",
+            "certificate_hash": "35b1f7bc1a5d3156bd68bd965fcfab37bb02d854"
+          }
+        },
+        {
+          "client_id": "763353680196-lt0slu482dmm1p370g3q91hc4h6oe46h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hasanat.app.com",
+            "certificate_hash": "ff016febae6cbf5df61396d1f25d00de679c5d35"
+          }
+        },
+        {
+          "client_id": "763353680196-bun07m0ip2m6s75v3qo88b2i6lhht7lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu84y95-QbRbEBs468fWAdJNPtXNVGj58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763353680196-bun07m0ip2m6s75v3qo88b2i6lhht7lv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "763353680196-3chb84cpd3k3u789ltt2nrsupu38sv69.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hasanat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
